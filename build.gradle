@@ -23,9 +23,9 @@ group = 'com.crud'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 
-//war{
-//	archiveName 'crud.war'
-//}
+war{
+	archiveName 'crud.war'
+}
 
 repositories {
 	mavenCentral()
